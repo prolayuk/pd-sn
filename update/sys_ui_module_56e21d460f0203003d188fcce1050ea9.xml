@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="pd table">92e21d460f0203003d188fcce1050ea7</application>
+        <filter/>
+        <name>pd tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_130600_pd_git.pd_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-27 23:29:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56e21d460f0203003d188fcce1050ea9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pd tables</sys_name>
+        <sys_package display_value="pd git" source="x_130600_pd_git">efd11d020f0203003d188fcce1050e2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pd git">efd11d020f0203003d188fcce1050e2a</sys_scope>
+        <sys_update_name>sys_ui_module_56e21d460f0203003d188fcce1050ea9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-27 23:29:31</sys_updated_on>
+        <table>x_130600_pd_git_pd_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

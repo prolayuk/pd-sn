@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="first_name" label="first name" language="en" table="x_130600_pd_git_pd_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <help/>
+            <hint/>
+            <label>first name</label>
+            <language>en</language>
+            <name>x_130600_pd_git_pd_table</name>
+            <plural>first names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 23:47:36</sys_created_on>
+            <sys_id>1b07d9c60f0203003d188fcce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>first name</sys_name>
+            <sys_package display_value="pd git" source="x_130600_pd_git">efd11d020f0203003d188fcce1050e2a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="pd git">efd11d020f0203003d188fcce1050e2a</sys_scope>
+            <sys_update_name>sys_documentation_x_130600_pd_git_pd_table_first_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 23:47:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

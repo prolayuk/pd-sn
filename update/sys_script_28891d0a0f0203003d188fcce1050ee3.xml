@@ -35,7 +35,7 @@
 	inc.addQuery('number','INC0000059');
 	inc.query();
 	if(inc.next()){
-		gs.log('category by shk>>'+inc.category);
+		gs.log('category by pd pd>>'+inc.category);
 	}
 
 })(current, previous);]]></script>
@@ -45,7 +45,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>28891d0a0f0203003d188fcce1050ee3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>pd incident</sys_name>
         <sys_overrides/>
         <sys_package display_value="pd git" source="x_130600_pd_git">efd11d020f0203003d188fcce1050e2a</sys_package>
@@ -53,7 +53,7 @@
         <sys_scope display_value="pd git">efd11d020f0203003d188fcce1050e2a</sys_scope>
         <sys_update_name>sys_script_28891d0a0f0203003d188fcce1050ee3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-28 11:06:29</sys_updated_on>
+        <sys_updated_on>2017-10-28 11:40:45</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

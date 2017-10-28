@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="sh01" max_length="40" name="x_130600_pd_git_sh01" type="collection">
+        <element label="fname" max_length="40" name="fname" type="string"/>
+    </element>
+</database>

@@ -4,6 +4,7 @@
         <element label="email" max_length="40" name="email" type="string"/>
         <element label="first name" max_length="40" name="first_name" type="string"/>
         <element label="name" max_length="40" name="name" type="string"/>
+        <element label="phone" max_length="40" name="phone" type="string"/>
         <element label="value" max_length="40" name="value" type="string"/>
     </element>
 </database>
